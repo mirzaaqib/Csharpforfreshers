@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Csharp for freshers</string>
+    <string name="purchase">Purchase with</string>
+    <string name="sdcard">SD card</string>
+    <string name="pendrive">Pendrive</string>
+    <string name="courseName">Course\nName</string>
+    <string name="INR">Price in \nINR</string>
+    <string name="USD">Price in \nUSD</string>
+</resources>
